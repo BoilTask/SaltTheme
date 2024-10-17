@@ -2309,7 +2309,7 @@
     </option>
     <option name="ReSharper.CPP_ENUM_ENUMERATOR_IDENTIFIER">
         <value>
-            <option name="FOREGROUND" value="c81e3c" />
+            <option name="FOREGROUND" value="f5073" />
         </value>
     </option>
     <option name="ReSharper.CPP_GLOBAL_FUNCTION_IDENTIFIER">
@@ -2372,6 +2372,11 @@
     <option name="ReSharper.DYNAMIC_PROGRAM_ANALYSIS_HIGHLIGHTER_ISSUE_FRAME">
         <value>
             <option name="BACKGROUND" value="fedcb7" />
+        </value>
+    </option>
+    <option name="ReSharper.ENUM_IDENTIFIER">
+        <value>
+            <option name="FOREGROUND" value="2864d2" />
         </value>
     </option>
     <option name="ReSharper.FORMAT_STRING_ITEM">
