@@ -1,13 +1,62 @@
-<scheme name="Salt Dark" version="142" parent_scheme="Darcula">
-    <option name="FONT_SCALE" value="1.0"/>
-    <option name="LINE_SPACING" value="1.2"/>
-    <option name="EDITOR_FONT_SIZE" value="18"/>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
-    <attributes>
-        <option name="DEFAULT_LOCAL_VARIABLE">
-            <value>
-                <option name="FOREGROUND" value="e67d6e"/>
-            </value>
-        </option>
-    </attributes>
+<scheme name="Salt Dark" version="142" parent_scheme="Dark">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2024.2.6.0.0</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="6fefff" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="96b9fa" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="78e66e" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="509641" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="64afff" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="6aab73" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_GLOBAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="9191ff" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_UE4_REFLECTION_SPECIFIER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6eafff" />
+      </value>
+    </option>
+    <option name="ReSharper.STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6eafb9" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
