@@ -1293,6 +1293,11 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
+        <option name="JS.GLOBAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="194196" />
+            </value>
+        </option>
         <option name="JS.INSTANCE_MEMBER_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="d33682" />
