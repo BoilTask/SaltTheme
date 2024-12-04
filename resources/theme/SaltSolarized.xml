@@ -1284,8 +1284,10 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
-        <option name="JS.CLASS">
-            <value />
+        <option name="JS.GLOBAL_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="194196" />
+            </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE">
             <value>
@@ -1293,18 +1295,10 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
-        <option name="JS.GLOBAL_FUNCTION">
-            <value>
-                <option name="FOREGROUND" value="194196" />
-            </value>
-        </option>
         <option name="JS.INSTANCE_MEMBER_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="d33682" />
             </value>
-        </option>
-        <option name="JS.INTERFACE">
-            <value />
         </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
@@ -1320,9 +1314,6 @@
                 <option name="FOREGROUND" value="859900" />
                 <option name="FONT_TYPE" value="1" />
             </value>
-        </option>
-        <option name="JSP_SCRIPTING_BACKGROUND">
-            <value />
         </option>
         <option name="JUPYTER_INLINE_VALUES">
             <value>
